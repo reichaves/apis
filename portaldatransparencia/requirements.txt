@@ -1,0 +1,5 @@
+jupyterlab
+pandas
+requests
+matplotlib
+seaborn
